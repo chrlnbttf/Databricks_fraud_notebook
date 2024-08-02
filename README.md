@@ -30,4 +30,4 @@ The aim of this notebook is the use of Microsoft Azure Databricks for data engin
 - Data Transformation: Injection of credit card numbers randomly and inheritated from transactions_df into profiles_client to create a common key
 - Data Transformation: Temporal information-based matching to create a common key between transactions_df and logs_df
 - Data Integration
-- Data Analysis: Creation of flags as potential fraud indicator (amount per user, logs frequency, unusual locations etc)
+- Data Analysis: Creation of flags as potential fraud indicators (amount per user, logs frequency, unusual locations etc)
