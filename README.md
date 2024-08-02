@@ -1,6 +1,6 @@
 # Databricks_fraud_notebook
 
-1. Datasources:
+1. Datasource:
 
 - Subject: Bank transactions and frauds
 Kagel: https://www.kaggle.com/datasets/kartik2112/fraud-detection
@@ -16,7 +16,7 @@ File: CC GENERAL
 Folder: Credit Card Dataset for Clustering
 
 
-2. Purposes:
+2. Purpose:
 
 The aim of this notebook is the use of Microsoft Azure Databricks for data engineering study purposes, involving the classical phases of data curation - ingestion (here in 3 different formats), transformation, integration - and first analyses, prerequisite of machine learning projections (possibilities to expand the project upon request)
 
